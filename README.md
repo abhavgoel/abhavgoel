@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Python projects**
 
-- 🌱 I’m currently learning **DSA and Video Editing**
+- 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on **Automation ideas**
 
