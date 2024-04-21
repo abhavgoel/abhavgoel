@@ -2,11 +2,11 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
-- 🔭 I’m currently working on **Backend Development projects**
+- 🔭 I’m currently working on **LLD projects**
 
-- 🌱 I’m currently learning **Django and Flask**
+- 🌱 I’m currently learning **Java**
 
-- 🤝 I’m looking for help with **REST framework**
+- 🤝 I’m looking for help with **Spring, Springboot**
 
 - 💬 Ask me about **Data Structures and Algorithms**
 
