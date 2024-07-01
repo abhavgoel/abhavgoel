@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhav Goel</h1>
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 
 
 - 🔭 I’m currently working on **NodeJS and ExpressJS**
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Data Structures and Algorithms**
 
-- 📫 How to reach me [goelabhav2002@gmail.com](mailto:goelabhav2002@gmail.com)
+- 📫 For freelance work reach me at - [goelabhav2002@gmail.com](mailto:goelabhav2002@gmail.com)
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Qt-4qhkTwd_wcenAp8COhHpZmTaDOoXn/view?usp=sharing)
 
@@ -20,5 +20,4 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
  ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
