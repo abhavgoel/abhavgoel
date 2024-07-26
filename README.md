@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhav Goel</h1>
+<h3 align="center"> Writer, Programmer, Backend developer </h3>
 
-- 🔭 I’m currently working on **NodeJS and ExpressJS**
+- 📫 Reach me at - [goelabhav2002@gmail.com](mailto:goelabhav2002@gmail.com)
 
-- 🌱 I’m currently learning **Backend development**
-
-- 🤝 I’m looking for help with **System design**
-
-- 💬 Ask me about **Data Structures and Algorithms**
-
-- 📫 For freelance work reach me at - [goelabhav2002@gmail.com](mailto:goelabhav2002@gmail.com)
+- 📝 I regularly write articles on [Medium](https://medium.com/@abhavgoel) and [X](https://twitter.com/AbhavGoel)
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/16upf1E0Yx0awoCfLKCIvKwc2aYSkC50R/view?usp=drive_link)
 
